@@ -1,7 +1,7 @@
 .typeset img {
-  display: block;
-  max-width: none;
-  margin: auto;
+  display: initial;
+  max-width: initial;
+  margin: initial;
   border-radius: initial;
     
 
