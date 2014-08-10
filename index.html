@@ -6,15 +6,17 @@ title: Rozcestník
 
 <div class="posts">
 <h1>Poznámky ke státnicím</h1>
+  <ul class="postul">
 
   {% for post in paginator.posts %}
-  <div class="post">
-      <a href="{{ post.url }}">
+     <li> <a href="{{ post.url }}">
         {{ post.title }}
       </a>
+      </li>
 
-  </div>
   {% endfor %}
+    </div>
+
 </div>
 
 
