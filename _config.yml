@@ -15,10 +15,10 @@ paginate:         5
 
 author:
   name:           'Karel Bílek'
-  url:            https://karelbilek.com
+  url:            http://karelbilek.com
 
 # Custom vars
-version:          1.0.9
+version:          1.0.10
 
 github:
   repo:           https://github.com/poznamkymgrstatnice/poznamkymgrstatnice.github.io
